@@ -25,7 +25,6 @@ bin/
 
 #dependencies
 [Dd]ependencies/windows/*
-[Dd]ependencies/mac/*
 [Dd]ependencies/all/*
 ![Dd]ependencies/all/dependencies.txt
 
